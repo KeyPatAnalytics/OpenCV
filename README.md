@@ -1,2 +1,2 @@
 # OpenCV
-This repository contains tutorials of the course upon OpenCV
+Basics and advanced topics in OpenCV.
